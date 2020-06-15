@@ -1,0 +1,955 @@
+#body{
+    width: 1327px;
+    background-color: #414B57;
+    line-height: 1000px;
+    border-style: solid;
+      
+}
+#head{
+    margin-top: 0px;
+    font-family: fantasy;
+    font-size: 70px;
+    text-align: center;
+    background-color: darkorange;
+    line-height: 100px;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    border-style: solid;
+}
+#logo{
+    margin-top: -102px;
+    margin-left: 235px; 
+}
+#logo img{
+    height: 98px;
+}
+#logo2{
+    margin-top: -98px;
+    margin-left: 1000px; 
+}
+#logo2 img{
+    height: 98px;
+}
+#bayrak{
+    margin-top: -20px;
+    margin-left: 5px;
+}
+#bayrak img{
+    height: 500px;
+    width: 180px;
+}
+#bayrakk{
+    margin-top: -500px;
+    margin-left: 1142px;  
+}
+#bayrakk img{
+    height: 500px;
+    width: 180px;
+}
+#pin{
+    margin-top: -515px;
+    margin-left: 83px;
+}
+#pin img{
+    height: 30px;
+    width: 30px;
+}
+#pinn{
+    margin-top: -30px;
+    margin-left: 1222px;
+}
+#pinn img{
+    height: 30px;
+    width: 30px;
+}
+#alan{
+    height: 7870px;
+    width: 935px;
+    background-color: rgb(208, 207, 223);
+    margin-top: 20px;
+    margin-left: 193px;
+    border-style: solid;  
+}
+#resimler{
+    margin-top: 18px;
+    margin-left: 15px;
+}
+#resimler img{
+    height: 400px;
+    width:  900px;
+    border-style: solid; 
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#logolar{
+    margin-top: 7px;
+    margin-left: 17px;
+}
+#logolar img{
+    width: 900px;
+    height: 60px;
+}
+#not{
+    font-family: fantasy;
+    margin-top: -480px;
+    text-align: center;
+    color: rgb(108, 133, 165);
+}
+#ataturkcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: -480px;
+}
+#ataturkbaslik{
+    text-align: center;
+    margin-top: -450px;
+}
+#ataturkbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#ataturkresim{
+    margin-top: -450px;
+    text-align: center;
+    
+}
+#ataturkresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#ataturkyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#ataturkyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.ataturkcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.ataturkcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+#inonucizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#inonubaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#inonubaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#inonuresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#inonuresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#inonuyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#inonuyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.inonucontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.inonucontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+#celalbayarcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#celalbayarbaslik{
+    text-align: center;
+    margin-top: -450px;
+}
+#celalbayarbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#celalbayarresim{
+    margin-top: -450px;
+    text-align: center;
+    
+}
+#celalbayarresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#celalbayaryazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#celalbayaryazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.celalbayarcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.celalbayarcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+#cemalgurselcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#cemalgurselbaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#cemalgurselbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#cemalgurselresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#cemalgurselresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#cemalgurselyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#cemalgurselyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.cemalgurselcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.cemalgurselcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+#cevdetsunaycizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#cevdetsunaybaslik{
+    text-align: center;
+    margin-top: -450px;
+}
+#cevdetsunaybaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#cevdetsunayresim{
+    margin-top: -450px;
+    text-align: center;
+    
+}
+#cevdetsunayresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#cevdetsunayyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#cevdetsunayyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.cevdetsunaycontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.cevdetsunaycontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+#fahrikoruturkcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#fahrikoruturkbaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#fahrikoruturkbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#fahrikoruturkresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#fahrikoruturkresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#fahrikoruturkyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#fahrikoruturkyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.fahrikoruturkcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.fahrikoruturkcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+#kenanevrencizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#kenanevrenbaslik{
+    text-align: center;
+    margin-top: -450px;
+}
+#kenanevrenbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#kenanevrenresim{
+    margin-top: -450px;
+    text-align: center;
+    
+}
+#kenanevrenresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#kenanevrenyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#kenanevrenyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.kenanevrencontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.kenanevrencontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+
+#turgutozalcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#turgutozalbaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#turgutozalbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#turgutozalresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#turgutozalresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#turgutozalyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#turgutozalyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.turgutozalcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.turgutozalcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+#suleymandemirelcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#suleymandemirelbaslik{
+    text-align: center;
+    margin-top: -450px;
+}
+#suleymandemirelbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#suleymandemirelresim{
+    margin-top: -450px;
+    text-align: center;
+    
+}
+#suleymandemirelresim img{
+    height: 450px;
+    width: 325px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#suleymandemirelyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#suleymandemirelyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.suleymandemirelcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.suleymandemirelcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+#ahmetnecdetsezercizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#ahmetnecdetsezerbaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#ahmetnecdetsezerbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#ahmetnecdetsezerresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#ahmetnecdetsezerresim img{
+    height: 450px;
+    width: 350px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#ahmetnecdetsezeryazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#ahmetnecdetsezeryazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.ahmetnecdetsezercontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.ahmetnecdetsezercontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+
+#abdullahgulcizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#abdullahgulbaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#abdullahgulbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#abdullahgulresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#abdullahgulresim img{
+    height: 450px;
+    width: 610px;
+    box-shadow: rgb(100, 95, 95)5px 5px 1px;
+}
+#abdullahgulyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#abdullahgulyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.abdullahgulcontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.abdullahgulcontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+
+
+
+
+#erdogancizgi{
+    border-style: dashed;
+    height: 0px;
+    margin-top: 50px;
+}
+#erdoganbaslik{
+    text-align: center;
+    margin-top: -440px;
+}
+#erdoganbaslik a{
+    font-family: fantasy;
+    color: #414B57;
+    text-shadow: rgb(255, 0, 0) 2px 2px 1px;
+    font-size: 70px;
+    text-decoration: none;
+}
+#erdoganresim{
+    margin-top: -450px;
+    text-align: center;   
+}
+#erdoganresim img{
+    height: 450px;
+    width: 370px;
+}
+#erdoganyazi{
+    margin-top: -480px;
+    text-align: center;
+}
+#erdoganyazi a{
+    font-family: fantasy;
+    color: #414B57;
+    font-size: 20px;
+    text-decoration: none;
+}
+.erdogancontainer {
+    position: relative;
+    width: 7%;
+    height: 70px;
+    margin-top: -590px;
+    margin-left: 800px
+}
+
+.button {
+    display: block;
+    height: 70px;
+    
+}
+.buttonhover {
+    position: absolute;
+    top: -10px;
+    bottom: -20px;
+    left: -10px;
+    right: 0px;
+    height: 150%;
+    width: 153%;
+    opacity: 0;
+    
+    background: url(buttonhover.png) no-repeat;
+    background-size: 100px;
+}
+
+.erdogancontainer:hover .buttonhover {
+    opacity: 1;
+}
+
+#logolar2{
+    text-align: center;
+}
+#logolar2 img{
+    width: 900px;
+    height: 60px;
+}
+#bayrakalt{
+    margin-top: -499px;
+    margin-left: 5px;
+}
+#bayrakalt img{
+    height: 500px;
+    width: 180px;
+}
+#bayrakaltt{
+    margin-top: -500px;
+    margin-left: 1142px;  
+}
+#bayrakaltt img{
+    height: 500px;
+    width: 180px;
+}
