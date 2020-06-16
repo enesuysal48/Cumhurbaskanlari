@@ -1,9 +1,8 @@
 #body{
     width: 1327px;
-    background-color: #414B57;
+    background-color: #0565B3;
     line-height: 1000px;
-    border-style: solid;
-      
+    border-style: solid;     
 }
 #head{
     margin-top: 0px;
@@ -14,7 +13,8 @@
     line-height: 100px;
     color: #414B57;
     text-shadow: rgb(255, 0, 0) 2px 2px 1px;
-    border-style: solid;
+    border-style: solid; 
+    border-color: #cd1e29;  
 }
 #logo{
     margin-top: -102px;
@@ -65,7 +65,7 @@
 #alan{
     height: 7870px;
     width: 935px;
-    background-color: rgb(208, 207, 223);
+    background-color: #64C096;
     margin-top: 20px;
     margin-left: 193px;
     border-style: solid;  
@@ -92,7 +92,8 @@
     font-family: fantasy;
     margin-top: -480px;
     text-align: center;
-    color: rgb(108, 133, 165);
+    color: #0565B3;
+    text-decoration: underline;
 }
 #ataturkcizgi{
     border-style: dashed;
@@ -929,9 +930,52 @@
 .erdogancontainer:hover .buttonhover {
     opacity: 1;
 }
-
+#dikeyyazisol{
+    margin-left: 50px;
+    margin-top: -7350px;
+}
+#dikeyyazisol img{
+    height: 2000px;
+}
+#dikeyyazisag{
+    margin-left: 1195px;
+    margin-top: -2000px;
+}
+#dikeyyazisag img{
+    height: 2000px;
+}
+#dikeyyazisol2{
+    margin-left: 50px;
+    margin-top: 450px;
+}
+#dikeyyazisol2 img{
+    height: 2000px;
+}
+#dikeyyazisag2{
+    margin-left: 1195px;
+    margin-top: -2000px;
+}
+#dikeyyazisag2 img{
+    height: 2000px;
+}
+#dikeyyazisol3{
+    margin-left: 50px;
+    margin-top: 450px;
+}
+#dikeyyazisol3 img{
+    height: 2000px;
+}
+#dikeyyazisag3{
+    margin-left: 1195px;
+    margin-top: -2000px;
+}
+#dikeyyazisag3 img{
+    height: 2000px;
+}
 #logolar2{
     text-align: center;
+    margin-top: 451px;
+    
 }
 #logolar2 img{
     width: 900px;
@@ -952,4 +996,5 @@
 #bayrakaltt img{
     height: 500px;
     width: 180px;
+    
 }
